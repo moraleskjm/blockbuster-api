@@ -1,4 +1,8 @@
-<img width="300" height="300" alt="Blockbuster Banner" src="https://github.com/user-attachments/assets/ad9a33c8-8b6b-4c4c-9cac-cc8268199709" />
+<p align="center">
+  <img width="300" height="300" alt="Blockbuster Banner" 
+       src="https://github.com/user-attachments/assets/ad9a33c8-8b6b-4c4c-9cac-cc8268199709" />
+</p>
+
 
 # 🎬 Blockbuster Rental API  
 
